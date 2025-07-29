@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/remo-villarreal/static/css/main.9928d9a3.css",
-    "main.js": "/remo-villarreal/static/js/main.6424e8af.js",
+    "main.js": "/remo-villarreal/static/js/main.03651719.js",
     "static/js/787.6521b79b.chunk.js": "/remo-villarreal/static/js/787.6521b79b.chunk.js",
     "index.html": "/remo-villarreal/index.html",
     "main.9928d9a3.css.map": "/remo-villarreal/static/css/main.9928d9a3.css.map",
-    "main.6424e8af.js.map": "/remo-villarreal/static/js/main.6424e8af.js.map",
+    "main.03651719.js.map": "/remo-villarreal/static/js/main.03651719.js.map",
     "787.6521b79b.chunk.js.map": "/remo-villarreal/static/js/787.6521b79b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9928d9a3.css",
-    "static/js/main.6424e8af.js"
+    "static/js/main.03651719.js"
   ]
 }
