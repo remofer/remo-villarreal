@@ -1,0 +1,33 @@
+.code-section {
+    padding: 4rem 1rem;
+    background-color: #fff;
+    color: #111;
+  }
+  
+  .code-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .code-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+  }
+  
+  .code-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .code-grid > *:last-child .card {
+    justify-content: flex-start;
+  }
+  
+  @media (min-width: 768px) {
+    .code-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  
