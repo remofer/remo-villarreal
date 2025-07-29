@@ -2,7 +2,7 @@
 	"name": "remo-villarreal",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://nemutas.github.io/remo-villarreal/",
+	"homepage": "https://remofer.github.io/remo-villarreal/",
 	"dependencies": {
 		"@emotion/css": "^11.9.0",
 		"@react-three/drei": "^8.20.2",
