@@ -13,7 +13,7 @@ export const AboutMe: React.VFC = () => {
   const paragraphs = [
     `I'm Remo Villarreal, a frontend developer focused on performance, clean architecture, and meaningful user experiences.`,
     `I specialize in building high-conversion Shopify storefronts and custom web applications using React, TypeScript, and Tailwind CSS. I'm also experienced working with the Shopify ecosystem: Liquid, Polaris, and Storefront APIs.`,
-    `I'm self-driven, detail-oriented, and always exploring new tools and ideas to push my work further—whether independently or in collaboration with a team.`,
+    `I'm self driven, detail oriented, and always exploring new tools and ideas to push my work further, whether independently or in collaboration with a team.`,
   ];
 
   return (
